@@ -1,0 +1,36 @@
+6 -1 -2
+1 index
+dup
+mul
+3 index
+2 index
+mul
+4
+mul
+sub
+sqrt
+dup
+3
+index
+sub
+4 index
+div
+2
+div
+exch
+-1
+mul
+3
+index
+sub
+4
+index
+div
+2
+div
+5 2 roll
+pop
+pop
+pop
+pstack
+
