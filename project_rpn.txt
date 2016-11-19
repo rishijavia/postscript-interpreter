@@ -2,6 +2,14 @@ In either "C" or Java, write a program
 that implements a reverse polish calculator
 involving the following functions :
 
+Done:
+roll
+copy
+pop
+exch
+pstack
+dup
+index
 add
 sub
 mul
@@ -11,15 +19,6 @@ mod
 sqrt
 sin
 cos
-
-pstack
-
-dup
-exch
-pop
-index
-roll
-copy
 
 Your program may either read the rpn file
 directly or via input redirection.
