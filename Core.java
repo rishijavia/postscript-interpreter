@@ -157,10 +157,9 @@ public class Core extends Stack{
     }
 
     public static void main(String[] args) {
-//        Scanner reader = new Scanner(System.in);
-//        System.out.println("Enter name of a file: ");
-//        String filename = reader.next();
-        String filename = "test.txt";
+        Scanner reader = new Scanner(System.in);
+        System.out.println("Enter name of a file: ");
+        String filename = reader.next();
         Core intpt = new Core (filename);
     }
 }
